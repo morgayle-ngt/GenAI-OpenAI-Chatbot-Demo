@@ -1,0 +1,20 @@
+# Proprietary code for this project file Chat-Completion-Demo.ipynb 
+chat_functions.py
+
+# Exclude venv libraries from the project
+venv/
+
+# Exclude all other files from the project until its ready to share and been modulerized 
+API-CURL-TEST.sh 
+API-Parameters-Demo.ipynb 
+Chat-Completion-Demo-Copy1.ipynb
+Demo-WordCompletion.ipynb
+Demo-Button.ipynb
+Timezone-Demo.ipynb
+Demo-CodeCompletion.ipynb
+
+# Jupyter notebook checkpoint files are not necessary for the repository as they can clutter it with unnecessary information
+.ipynb_checkpoints/
+
+# Compiled Python byte code which is automatically generated when running Python code and not necessary for version control
+__pycache__/
